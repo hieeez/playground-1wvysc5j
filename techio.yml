@@ -2,7 +2,7 @@ title: First Flames
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
-  hello eveeryone!
+  # Hello World!
 projects:
   python:
     root: /python-project
