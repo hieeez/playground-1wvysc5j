@@ -1,6 +1,6 @@
 title: First Flames
 plan:
-- title: Welcome
+- title:  Welcome
   statement: markdowns/welcome.md
   # Hello World!
 - title: Part 2
