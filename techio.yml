@@ -3,6 +3,9 @@ plan:
 - title: Welcome
   statement: markdowns/welcome.md
   # Hello World!
+- title: Part 2
+  statement: markdowns/part2.md
+  # Flames for excercises
 projects:
   python:
     root: /python-project
